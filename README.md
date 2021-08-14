@@ -11,11 +11,11 @@ ano the other being for December. After run the queries we store the list of tem
 The tempreatures are different between Jun & Dec. Jun. has higher tempreatures(Min=64F,Max=85) compared to Dec(Min=56F,Max=83F). The mean tempreature for June is 74.94F which is also higher than 71.04F in Dec. Temprature Std for Jun is 3.26 whereas Dec is 3.75. In conclusion: Jun. will attracts more tourist to come, and will increase the sales for ice cream business.
 
 Table 1:June Tempreture
-
+https://github.com/elhamamini/surfs_up/blob/main/June_Summary%20Statistics.png
 
 
 Table 2: December Tempreture
-
+https://github.com/elhamamini/surfs_up/blob/main/December_Summary%20Statistics.png
 
 
 
