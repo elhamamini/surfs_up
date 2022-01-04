@@ -12,7 +12,7 @@ Clent requests information about temperature trends -- specifically, temperature
 ### Results  
   
 ![june_results](readme_resources/june_temps.png)
-![dec_results](readme_resources/dec_temps.png)
+![dec_results](https://github.com/elhamamini/surfs_up/blob/main/December_Summary%20Statistics.png)
   
 Analysis yeilded these specific findings:  
   
