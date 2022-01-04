@@ -31,4 +31,4 @@ The first graph shows averages for temperature and rainfall. Analysis also offer
   
   
 ![averages](readme_resources/year_average.png)
-![outliers](readme_resources/outliers.png) 
+![outliers](readme_resources/outliers.png)  
