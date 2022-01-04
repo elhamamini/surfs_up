@@ -11,7 +11,7 @@ Clent requests information about temperature trends -- specifically, temperature
   
 ### Results  
   
-![june_results](readme_resources/june_temps.png)
+![june_results](https://github.com/elhamamini/surfs_up/blob/main/June_Summary%20Statistics.png)
 ![dec_results](https://github.com/elhamamini/surfs_up/blob/main/December_Summary%20Statistics.png)
   
 Analysis yeilded these specific findings:  
@@ -30,5 +30,5 @@ Analysis below is a multi-year, month by month break down of temperature and pre
 The first graph shows averages for temperature and rainfall. Analysis also offers an outliers graph, to show months where extreme precipitation and coolest temperature occured in the data. Note again the results of December through March. Solely considering June and December does not reveal these potential issues.<br/>
   
   
-![averages](readme_resources/year_average.png)
-![outliers](readme_resources/outliers.png)  
+![averages](https://github.com/sjmisina/surfs_up/blob/main/readme_resources/year_average.png)
+![outliers](https://github.com/sjmisina/surfs_up/blob/main/readme_resources/outliers.png)  
